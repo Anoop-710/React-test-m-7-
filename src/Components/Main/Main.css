@@ -1,0 +1,282 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+.container-fluid{
+    height: 622px;
+    width: 1292px;
+    left: 59px;
+    top: 92px;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #96E9FB 0%, #ABECD6 100%);
+    position: absolute;
+}
+
+
+.inner-container-main{
+    height: 619px;
+    max-width: 1292px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    padding: 0px 0px 0px 206px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 0px 206px;
+    position: absolute;
+}
+
+
+/* Main left bits */
+.col-md-6{
+    height: 316px;
+    width: 548px;
+    left: 126.5px;
+    top: 151.5px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 30px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+
+.col-md-6 h5{
+    height: 24px;
+    width: 122px;
+    left: 0px;
+    top: 0px;
+    border-radius: nullpx;
+    
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+    color: #2A7CC7;
+
+
+/* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+
+.col-md-6 h1{
+    height: 80px;
+    width: 548px;
+    left: 0px;
+    top: 54px;
+    border-radius: nullpx;
+    
+    font-family: Montserrat;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    
+    color: #252B42;
+
+
+/* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+
+.col-md-6 h4{
+    height: 60px;
+    width: 376px;
+    left: 0px;
+    top: 164px;
+    border-radius: nullpx;
+    
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: #737373;
+
+
+/* Inside auto layout */
+
+    flex: none;
+    order: 2;
+    flex-grow: 0;    
+}
+
+
+.cta{
+    height: 62px;
+    width: 221px;
+    left: 0px;
+    top: 254px;
+    border-radius: 0px;
+    gap: 10px;
+    
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+}
+
+
+
+.cta button{
+    height: 62px;
+    width: 221px;
+    left: 0px;
+    top: 0px;
+    border-radius: 5px;
+    padding: 15px 40px 15px 40px;
+    
+    
+    background: #23A6F0;
+    border-radius: 5px;
+    border: none;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: center;
+    color: #FFFFFF;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.cta button h3{
+    height: 32px;
+    width: 141px;
+    left: 40px;
+    top: 15px;
+    border-radius: nullpx;
+
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: center;
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+
+
+/* Main -Right bits */
+.col-md-6-img{
+    height: 619px;
+    width: 697px;
+    left: 674.5px;
+    top: 0px;
+    border-radius: 0px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    /* border: 2px solid black; */
+    background: url("Assets/girlImage.png");    
+}
+
+.hero-cover-1{
+    height: 619px;
+    width: 696px;
+    left: 0.5px;
+    top: 0px;
+    border-radius: 0px;
+    position: absolute;    
+}
+
+.none{
+    height: 690px;
+    width: 687px;
+    left: 5.5px;
+    top: -70px;
+    border-radius: 0px;
+    position: absolute;
+}
+
+.ellipse-1{
+    height: 15.258015632629395px;
+    width: 15.258015632629395px;
+    left: 87.37646484375px;
+    top: 480.1383361816406px;
+    border-radius: 50%;
+    background: #977DF4;
+    position: absolute;
+}
+
+.ellipse-2{
+    height: 15.258015632629395px;
+    width: 15.258015632629395px;
+    left: 658.4622192382812px;
+    top: 183.69705200195312px;
+    border-radius: 0px;
+    background: #977DF4;
+    position: absolute; 
+    border-radius: 50%;  
+}
+.ellipse-3{
+    height: 31.242603302001953px;
+    width: 31.242603302001953px;
+    left: 635.2120361328125px;
+    top: 313.75335693359375px;
+    border-radius: 0px;
+    background: #FFFFFF; 
+    position: absolute;     
+    border-radius: 50%; 
+}
+
+
+.girlImage{
+    height: 699px;
+    width: 696px;
+    left: -5px;
+    top: 15px;
+    border-radius: 0px;
+    position: absolute;
+    background: url("Assets/girlImage.png");
+    z-index: +1;
+    border: 2px solid black;
+}
+.ellipse-4{
+    height: 79.92293548583984px;
+    width: 79.92293548583984px;
+    left: 62.67308044433594px;
+    top: 70.3516845703125px;
+    border-radius: 0px;
+    background: #FFFFFF;
+    position: absolute;
+    border-radius: 50%;
+}
+.ellipse-5{
+    height: 499.88165283203125px;
+    width: 499.88165283203125px;
+    left: 122.97869873046875px;
+    top: 58px;
+    border-radius: 0px;
+    background: #FFFFFF;
+    position: absolute;    
+    border-radius: 50%;   
+}
